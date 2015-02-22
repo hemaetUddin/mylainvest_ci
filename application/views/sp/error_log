@@ -1,0 +1,29 @@
+[25-Jan-2015 09:51:30 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'maylainv_user'@'localhost' (using password: YES) in /home/maylainvest/public_html/mayla/common/config.php on line 13
+[25-Jan-2015 09:51:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/maylainvest/public_html/mayla/common/config.php:13) in /home/maylainvest/public_html/mayla/sp/bankInfoForm.php on line 6
+[25-Jan-2015 09:51:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/maylainvest/public_html/mayla/common/config.php:13) in /home/maylainvest/public_html/mayla/sp/bankInfoForm.php on line 6
+[25-Jan-2015 09:51:30 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maylainvest/public_html/mayla/sp/bankInfoForm.php on line 202
+[25-Jan-2015 09:51:30 America/Chicago] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/maylainvest/public_html/mayla/sp/bankInfoForm.php on line 203
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  move_uploaded_file(upload/05592426_10.jpg): failed to open stream: No such file or directory in /home/maylainvest/public_html/mayla/sp/upload.php on line 272
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpmYXZFo' to 'upload/05592426_10.jpg' in /home/maylainvest/public_html/mayla/sp/upload.php on line 272
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  move_uploaded_file(upload/05592426_10.jpg): failed to open stream: No such file or directory in /home/maylainvest/public_html/mayla/sp/upload.php on line 272
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpEX6GRB' to 'upload/05592426_10.jpg' in /home/maylainvest/public_html/mayla/sp/upload.php on line 272
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  move_uploaded_file(upload/05592426_10.jpg): failed to open stream: No such file or directory in /home/maylainvest/public_html/mayla/sp/upload.php on line 272
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpdGip3O' to 'upload/05592426_10.jpg' in /home/maylainvest/public_html/mayla/sp/upload.php on line 272
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  move_uploaded_file(upload/05592426_10.jpg): failed to open stream: No such file or directory in /home/maylainvest/public_html/mayla/sp/upload.php on line 272
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpszK8e2' to 'upload/05592426_10.jpg' in /home/maylainvest/public_html/mayla/sp/upload.php on line 272
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  fopen(upload/05592426_10.jpg): failed to open stream: No such file or directory in /home/maylainvest/public_html/mayla/sp/upload.php on line 541
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  filesize(): stat failed for upload/05592426_10.jpg in /home/maylainvest/public_html/mayla/sp/upload.php on line 542
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/maylainvest/public_html/mayla/sp/upload.php on line 542
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/maylainvest/public_html/mayla/sp/upload.php on line 543
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  fopen(upload/05592426_10.jpg): failed to open stream: No such file or directory in /home/maylainvest/public_html/mayla/sp/upload.php on line 541
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  filesize(): stat failed for upload/05592426_10.jpg in /home/maylainvest/public_html/mayla/sp/upload.php on line 542
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/maylainvest/public_html/mayla/sp/upload.php on line 542
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/maylainvest/public_html/mayla/sp/upload.php on line 543
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  fopen(upload/05592426_10.jpg): failed to open stream: No such file or directory in /home/maylainvest/public_html/mayla/sp/upload.php on line 541
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  filesize(): stat failed for upload/05592426_10.jpg in /home/maylainvest/public_html/mayla/sp/upload.php on line 542
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/maylainvest/public_html/mayla/sp/upload.php on line 542
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/maylainvest/public_html/mayla/sp/upload.php on line 543
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  fopen(upload/05592426_10.jpg): failed to open stream: No such file or directory in /home/maylainvest/public_html/mayla/sp/upload.php on line 541
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  filesize(): stat failed for upload/05592426_10.jpg in /home/maylainvest/public_html/mayla/sp/upload.php on line 542
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/maylainvest/public_html/mayla/sp/upload.php on line 542
+[29-Jan-2015 06:41:19 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/maylainvest/public_html/mayla/sp/upload.php on line 543
